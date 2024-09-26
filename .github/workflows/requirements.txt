@@ -1,13 +1,11 @@
-# Dépendances principales pour FastAPI
 fastapi
 uvicorn
 pydantic
-
-# Dépendances pour la gestion des requêtes multipart/form-data et websockets
 python-multipart
 websockets
 
-# Dépendances pour les tests
+# Testing dependencies
 pytest
 pytest-cov
+httpx
 
