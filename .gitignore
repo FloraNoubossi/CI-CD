@@ -1,0 +1,38 @@
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorer les fichiers de virtualenv et environnement Python
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de dépendances
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.temp
+*.swp
+
+# Ignorer les fichiers de tests
+.coverage
+.tox/
+.cache/
+nosetests.xml
+coverage.xml
+
+# Ignorer les fichiers de configuration d'éditeurs/IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
