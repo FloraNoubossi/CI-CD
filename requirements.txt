@@ -3,3 +3,13 @@ fastapi
 uvicorn
 python-multipart
 websockets
+fastapi
+uvicorn
+pydantic
+python-multipart
+websockets
+
+# Dépendances pour les tests
+pytest
+pytest-cov
+httpx

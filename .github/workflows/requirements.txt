@@ -4,7 +4,7 @@ pydantic
 python-multipart
 websockets
 
-# Testing dependencies
+# Dépendances pour les tests
 pytest
 pytest-cov
 httpx
